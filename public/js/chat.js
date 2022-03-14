@@ -1,4 +1,4 @@
-const socket = io("http://localhost:8080");
+const socket = io("http://localhost:3333");
 let idChatRoom = "";
 
 function onLoad() {
